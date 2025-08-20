@@ -42,7 +42,7 @@ const API_SITES = {
     wolong: { api: 'https://wolongzyw.com/api.php/provide/vod', name: '卧龙资源' },
     wwzy: { api: 'https://wwzy.tv/api.php/provide/vod', name: '旺旺短剧' },
     dbzy: { api: 'https://caiji.dbzy5.com/api.php/provide/vod', name: '豆瓣资源' },
-    91mdme: { api: 'https://www.md91.cc/api.php/provide/vod', name: '91麻豆' },
+    yaya: { api: 'https://cj.yayazy.net/api.php/provide/vod', name: 'YY资源' },
     jmzy: { api: 'https://api.jmzy.com/api.php/provide/vod', name: '金马资源' },
     zy360: { api: 'https://360zy.com/api.php/provide/vod', name: '360资源' },
     zuid: { api: 'https://api.zuidapi.com/api.php/provide/vod', name: '最大资源' },
