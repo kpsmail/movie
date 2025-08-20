@@ -55,6 +55,11 @@ const API_SITES = {
         name: 'jkun资源',
         adult: true
     },
+    md: {
+        api: 'https://91md.me/api.php/provide/vod',
+        name: '91麻豆',
+        adult: true
+    },
     // huya: { api: 'https://www.huyaapi.com/api.php/provide/vod', name: '虎牙资源', detail: 'https://www.huyaapi.com' }, 
 };
 
