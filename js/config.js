@@ -51,7 +51,7 @@ const API_SITES = {
     ikun: { api: 'https://ikunzyapi.com/api.php/provide/vod', name: 'iKun资源' },
     yaya: { api: 'https://cj.yayazy.net/api.php/provide/vod', name: 'YY资源' },
     xmm: { api: 'https://zy.xmm.hk/api.php/provide/vod', name: '小猫咪资源' },
-    91mdme: { api: 'https://www.md91.cc/api.php/provide/vod', name: '91麻豆',adult: true },
+    91mdme: { api: 'https://www.md91.cc/api.php/provide/vod', name: '91麻豆' },
     // huya: { api: 'https://www.huyaapi.com/api.php/provide/vod', name: '虎牙资源', detail: 'https://www.huyaapi.com' }, 
 };
 
