@@ -43,6 +43,7 @@ const API_SITES = {
     wwzy: { api: 'https://wwzy.tv/api.php/provide/vod', name: '旺旺短剧' },
     dbzy: { api: 'https://caiji.dbzy5.com/api.php/provide/vod', name: '豆瓣资源' },
     yaya: { api: 'https://cj.yayazy.net/api.php/provide/vod', name: 'YY资源' },
+    xmm: { api: 'https://zy.xmm.hk/api.php/provide/vod', name: '小猫咪资源' },
     jmzy: { api: 'https://api.jmzy.com/api.php/provide/vod', name: '金马资源' },
     zy360: { api: 'https://360zy.com/api.php/provide/vod', name: '360资源' },
     zuid: { api: 'https://api.zuidapi.com/api.php/provide/vod', name: '最大资源' },
