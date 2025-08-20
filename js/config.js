@@ -50,6 +50,7 @@ const API_SITES = {
     baidu: { api: 'https://api.apibdzy.com/api.php/provide/vod', name: '百度云资源' },
     wujin: { api: 'https://api.wujinapi.me/api.php/provide/vod', name: '无尽资源' },
     ikun: { api: 'https://ikunzyapi.com/api.php/provide/vod', name: 'iKun资源' },
+    91md: { api: 'https://91md.me/api.php/provide/vod', name: '91麻豆' },
     // huya: { api: 'https://www.huyaapi.com/api.php/provide/vod', name: '虎牙资源', detail: 'https://www.huyaapi.com' }, 
 };
 
