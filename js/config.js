@@ -49,7 +49,10 @@ const API_SITES = {
     baidu: { api: 'https://api.apibdzy.com/api.php/provide/vod', name: '百度云资源' },
     wujin: { api: 'https://api.wujinapi.me/api.php/provide/vod', name: '无尽资源' },
     ikun: { api: 'https://ikunzyapi.com/api.php/provide/vod', name: 'iKun资源' },
-    // huya: { api: 'https://www.huyaapi.com/api.php/provide/vod', name: '虎牙资源', detail: 'https://www.huyaapi.com' },  
+    yaya: { api: 'https://cj.yayazy.net/api.php/provide/vod', name: 'YY资源' },
+    xmm: { api: 'https://zy.xmm.hk/api.php/provide/vod', name: '小猫咪资源' },
+    91mdme: { api: 'https://www.md91.cc/api.php/provide/vod', name: '91麻豆',adult: true },
+    // huya: { api: 'https://www.huyaapi.com/api.php/provide/vod', name: '虎牙资源', detail: 'https://www.huyaapi.com' }, 
 };
 
 window.API_SITES = API_SITES;
